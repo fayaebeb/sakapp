@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-requests
-pydantic
-sqlalchemy
-python-jose[cryptography]
